@@ -1,0 +1,1 @@
+{"license":"MIT","bundleDependencies":false,"keywords":["homebridge-plugin"],"deprecated":false,"version":"0.0.1","description":"Support for my shitty AliExpress Relais","bugs":{},"engines":{"homebridge":">=0.2.0","node":">=0.12.0"},"name":"homebridge-sr-201-relay"}

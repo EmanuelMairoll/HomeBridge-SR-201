@@ -1,0 +1,1 @@
+{"pluginAlias":"SR-201-Relay","singular":false,"schema":{"type":"object","properties":{"relayIndex":{"title":"Relay Index","minimum":1,"type":"integer","maximum":8},"name":{"title":"Name","type":"string","required":true},"ip":{"title":"Relay IP Address","required":true,"type":"string","format":"ipv4"}}},"pluginType":"accessory"}
